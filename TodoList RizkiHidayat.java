@@ -5,7 +5,7 @@ package aplikasi.todolist;
  
 
 
-public class AplikasiTodolistIndra {
+public class AplikasiTodolist {
    
     public static String []model = new String[10];
     
